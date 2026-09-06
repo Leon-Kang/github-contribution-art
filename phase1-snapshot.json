@@ -1,0 +1,528 @@
+{
+  "account": "Leon-Kang",
+  "fetchedRange": "2015-01-01 through 2025-12-31",
+  "coordinateSystem": {
+    "weekIndex": "zero-based column index returned by contributionCalendar.weeks",
+    "weekday": "0=Sunday through 6=Saturday",
+    "displayWeek": "one-based week column shown in report"
+  },
+  "years": {
+    "2015": {
+      "totalContributions": 1,
+      "occupiedCells": [
+        {
+          "date": "2015-06-20",
+          "weekIndex": 24,
+          "weekday": 6,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2016": {
+      "totalContributions": 2,
+      "occupiedCells": [
+        {
+          "date": "2016-04-08",
+          "weekIndex": 14,
+          "weekday": 5,
+          "contributionCount": 1
+        },
+        {
+          "date": "2016-12-19",
+          "weekIndex": 51,
+          "weekday": 1,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2017": {
+      "totalContributions": 4,
+      "occupiedCells": [
+        {
+          "date": "2017-04-26",
+          "weekIndex": 16,
+          "weekday": 3,
+          "contributionCount": 2
+        },
+        {
+          "date": "2017-06-08",
+          "weekIndex": 22,
+          "weekday": 4,
+          "contributionCount": 1
+        },
+        {
+          "date": "2017-06-21",
+          "weekIndex": 24,
+          "weekday": 3,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2018": {
+      "totalContributions": 2,
+      "occupiedCells": [
+        {
+          "date": "2018-12-18",
+          "weekIndex": 50,
+          "weekday": 2,
+          "contributionCount": 1
+        },
+        {
+          "date": "2018-12-24",
+          "weekIndex": 51,
+          "weekday": 1,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2019": {
+      "totalContributions": 18,
+      "occupiedCells": [
+        {
+          "date": "2019-03-21",
+          "weekIndex": 11,
+          "weekday": 4,
+          "contributionCount": 1
+        },
+        {
+          "date": "2019-03-24",
+          "weekIndex": 12,
+          "weekday": 0,
+          "contributionCount": 1
+        },
+        {
+          "date": "2019-04-05",
+          "weekIndex": 13,
+          "weekday": 5,
+          "contributionCount": 2
+        },
+        {
+          "date": "2019-04-14",
+          "weekIndex": 15,
+          "weekday": 0,
+          "contributionCount": 4
+        },
+        {
+          "date": "2019-05-29",
+          "weekIndex": 21,
+          "weekday": 3,
+          "contributionCount": 1
+        },
+        {
+          "date": "2019-07-08",
+          "weekIndex": 27,
+          "weekday": 1,
+          "contributionCount": 1
+        },
+        {
+          "date": "2019-07-29",
+          "weekIndex": 30,
+          "weekday": 1,
+          "contributionCount": 2
+        },
+        {
+          "date": "2019-09-02",
+          "weekIndex": 35,
+          "weekday": 1,
+          "contributionCount": 1
+        },
+        {
+          "date": "2019-09-23",
+          "weekIndex": 38,
+          "weekday": 1,
+          "contributionCount": 4
+        },
+        {
+          "date": "2019-11-05",
+          "weekIndex": 44,
+          "weekday": 2,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2020": {
+      "totalContributions": 4,
+      "occupiedCells": [
+        {
+          "date": "2020-07-16",
+          "weekIndex": 28,
+          "weekday": 4,
+          "contributionCount": 4
+        }
+      ]
+    },
+    "2021": {
+      "totalContributions": 14,
+      "occupiedCells": [
+        {
+          "date": "2021-12-27",
+          "weekIndex": 52,
+          "weekday": 1,
+          "contributionCount": 10
+        },
+        {
+          "date": "2021-12-29",
+          "weekIndex": 52,
+          "weekday": 3,
+          "contributionCount": 3
+        },
+        {
+          "date": "2021-12-30",
+          "weekIndex": 52,
+          "weekday": 4,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2022": {
+      "totalContributions": 28,
+      "occupiedCells": [
+        {
+          "date": "2022-01-02",
+          "weekIndex": 1,
+          "weekday": 0,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-01-05",
+          "weekIndex": 1,
+          "weekday": 3,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-01-16",
+          "weekIndex": 3,
+          "weekday": 0,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-07-26",
+          "weekIndex": 30,
+          "weekday": 2,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-07-31",
+          "weekIndex": 31,
+          "weekday": 0,
+          "contributionCount": 2
+        },
+        {
+          "date": "2022-08-01",
+          "weekIndex": 31,
+          "weekday": 1,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-08-02",
+          "weekIndex": 31,
+          "weekday": 2,
+          "contributionCount": 4
+        },
+        {
+          "date": "2022-08-03",
+          "weekIndex": 31,
+          "weekday": 3,
+          "contributionCount": 7
+        },
+        {
+          "date": "2022-08-16",
+          "weekIndex": 33,
+          "weekday": 2,
+          "contributionCount": 2
+        },
+        {
+          "date": "2022-10-25",
+          "weekIndex": 43,
+          "weekday": 2,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-10-26",
+          "weekIndex": 43,
+          "weekday": 3,
+          "contributionCount": 5
+        },
+        {
+          "date": "2022-11-04",
+          "weekIndex": 44,
+          "weekday": 5,
+          "contributionCount": 1
+        },
+        {
+          "date": "2022-11-05",
+          "weekIndex": 44,
+          "weekday": 6,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2023": {
+      "totalContributions": 53,
+      "occupiedCells": [
+        {
+          "date": "2023-01-31",
+          "weekIndex": 4,
+          "weekday": 2,
+          "contributionCount": 11
+        },
+        {
+          "date": "2023-02-01",
+          "weekIndex": 4,
+          "weekday": 3,
+          "contributionCount": 11
+        },
+        {
+          "date": "2023-02-02",
+          "weekIndex": 4,
+          "weekday": 4,
+          "contributionCount": 3
+        },
+        {
+          "date": "2023-02-03",
+          "weekIndex": 4,
+          "weekday": 5,
+          "contributionCount": 1
+        },
+        {
+          "date": "2023-02-06",
+          "weekIndex": 5,
+          "weekday": 1,
+          "contributionCount": 3
+        },
+        {
+          "date": "2023-02-14",
+          "weekIndex": 6,
+          "weekday": 2,
+          "contributionCount": 3
+        },
+        {
+          "date": "2023-02-15",
+          "weekIndex": 6,
+          "weekday": 3,
+          "contributionCount": 5
+        },
+        {
+          "date": "2023-02-21",
+          "weekIndex": 7,
+          "weekday": 2,
+          "contributionCount": 2
+        },
+        {
+          "date": "2023-02-27",
+          "weekIndex": 8,
+          "weekday": 1,
+          "contributionCount": 2
+        },
+        {
+          "date": "2023-03-23",
+          "weekIndex": 11,
+          "weekday": 4,
+          "contributionCount": 1
+        },
+        {
+          "date": "2023-03-24",
+          "weekIndex": 11,
+          "weekday": 5,
+          "contributionCount": 1
+        },
+        {
+          "date": "2023-06-26",
+          "weekIndex": 25,
+          "weekday": 1,
+          "contributionCount": 4
+        },
+        {
+          "date": "2023-06-27",
+          "weekIndex": 25,
+          "weekday": 2,
+          "contributionCount": 6
+        }
+      ]
+    },
+    "2024": {
+      "totalContributions": 18,
+      "occupiedCells": [
+        {
+          "date": "2024-04-30",
+          "weekIndex": 17,
+          "weekday": 2,
+          "contributionCount": 11
+        },
+        {
+          "date": "2024-05-01",
+          "weekIndex": 17,
+          "weekday": 3,
+          "contributionCount": 3
+        },
+        {
+          "date": "2024-07-30",
+          "weekIndex": 30,
+          "weekday": 2,
+          "contributionCount": 3
+        },
+        {
+          "date": "2024-07-31",
+          "weekIndex": 30,
+          "weekday": 3,
+          "contributionCount": 1
+        }
+      ]
+    },
+    "2025": {
+      "totalContributions": 307,
+      "occupiedCells": [
+        {
+          "date": "2025-04-12",
+          "weekIndex": 14,
+          "weekday": 6,
+          "contributionCount": 2
+        },
+        {
+          "date": "2025-04-14",
+          "weekIndex": 15,
+          "weekday": 1,
+          "contributionCount": 7
+        },
+        {
+          "date": "2025-05-07",
+          "weekIndex": 18,
+          "weekday": 3,
+          "contributionCount": 3
+        },
+        {
+          "date": "2025-05-08",
+          "weekIndex": 18,
+          "weekday": 4,
+          "contributionCount": 15
+        },
+        {
+          "date": "2025-05-09",
+          "weekIndex": 18,
+          "weekday": 5,
+          "contributionCount": 2
+        },
+        {
+          "date": "2025-05-14",
+          "weekIndex": 19,
+          "weekday": 3,
+          "contributionCount": 8
+        },
+        {
+          "date": "2025-05-15",
+          "weekIndex": 19,
+          "weekday": 4,
+          "contributionCount": 3
+        },
+        {
+          "date": "2025-05-16",
+          "weekIndex": 19,
+          "weekday": 5,
+          "contributionCount": 1
+        },
+        {
+          "date": "2025-05-17",
+          "weekIndex": 19,
+          "weekday": 6,
+          "contributionCount": 19
+        },
+        {
+          "date": "2025-05-18",
+          "weekIndex": 20,
+          "weekday": 0,
+          "contributionCount": 9
+        },
+        {
+          "date": "2025-05-19",
+          "weekIndex": 20,
+          "weekday": 1,
+          "contributionCount": 17
+        },
+        {
+          "date": "2025-05-20",
+          "weekIndex": 20,
+          "weekday": 2,
+          "contributionCount": 6
+        },
+        {
+          "date": "2025-06-20",
+          "weekIndex": 24,
+          "weekday": 5,
+          "contributionCount": 4
+        },
+        {
+          "date": "2025-12-08",
+          "weekIndex": 49,
+          "weekday": 1,
+          "contributionCount": 1
+        },
+        {
+          "date": "2025-12-09",
+          "weekIndex": 49,
+          "weekday": 2,
+          "contributionCount": 9
+        },
+        {
+          "date": "2025-12-10",
+          "weekIndex": 49,
+          "weekday": 3,
+          "contributionCount": 3
+        },
+        {
+          "date": "2025-12-20",
+          "weekIndex": 50,
+          "weekday": 6,
+          "contributionCount": 14
+        },
+        {
+          "date": "2025-12-21",
+          "weekIndex": 51,
+          "weekday": 0,
+          "contributionCount": 11
+        },
+        {
+          "date": "2025-12-22",
+          "weekIndex": 51,
+          "weekday": 1,
+          "contributionCount": 1
+        },
+        {
+          "date": "2025-12-25",
+          "weekIndex": 51,
+          "weekday": 4,
+          "contributionCount": 42
+        },
+        {
+          "date": "2025-12-26",
+          "weekIndex": 51,
+          "weekday": 5,
+          "contributionCount": 26
+        },
+        {
+          "date": "2025-12-27",
+          "weekIndex": 51,
+          "weekday": 6,
+          "contributionCount": 24
+        },
+        {
+          "date": "2025-12-28",
+          "weekIndex": 52,
+          "weekday": 0,
+          "contributionCount": 52
+        },
+        {
+          "date": "2025-12-29",
+          "weekIndex": 52,
+          "weekday": 1,
+          "contributionCount": 22
+        },
+        {
+          "date": "2025-12-31",
+          "weekIndex": 52,
+          "weekday": 3,
+          "contributionCount": 6
+        }
+      ]
+    }
+  }
+}
